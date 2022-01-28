@@ -1,0 +1,10 @@
+---
+cache_addresses:
+- https://nexus.odkl.ru/repository/odnoklassniki-ios-cache/cache/
+primary_repo: ssh://git@stash.odkl.ru:7999/ios/odnoklassniki-ios.git
+primary_branch: dr/TestXCRC
+out_of_band_mappings:
+  SUPER_TARGET_SRCROOT: "/Users/dmitry.rybochkin/ISV/Temp/TestXCRC/SDK"
+mode: producer
+xccc_file: ".rc/xccc"
+remote_commit_file: ".rc/arc.rc"
