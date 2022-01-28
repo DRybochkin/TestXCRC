@@ -1,0 +1,29 @@
+{
+  "name": "TestDevPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestDevPod.",
+  "homepage": "https://github.com/DRybochkin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Dmitry Rybochkin": "dmitry.rybochkin@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "14.7"
+  },
+  "prefix_header_file": false,
+  "source_files": "Classes/**/*.{swift}",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "ReactiveSwift": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,24 @@
+PODS:
+  - ReactiveSwift (7.0.0)
+  - TestDevPod (0.1.0):
+    - ReactiveSwift
+
+DEPENDENCIES:
+  - ReactiveSwift (= 7.0.0)
+  - TestDevPod (from `/Users/dmitry.rybochkin/ISV/ok/custom/DemoApp/TestXCRC/SDK/TestDevPod`)
+
+SPEC REPOS:
+  trunk:
+    - ReactiveSwift
+
+EXTERNAL SOURCES:
+  TestDevPod:
+    :path: "/Users/dmitry.rybochkin/ISV/ok/custom/DemoApp/TestXCRC/SDK/TestDevPod"
+
+SPEC CHECKSUMS:
+  ReactiveSwift: 48c4b9d3b497e8dd20b10300bb1a28ff93550f13
+  TestDevPod: 6d854ff15c1111e66ee2cc75ddecbf40a6953ced
+
+PODFILE CHECKSUM: b8991a0785bbd53a0c7e3c1f2718774d708193e8
+
+COCOAPODS: 1.11.0

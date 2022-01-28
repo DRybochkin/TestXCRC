@@ -1,0 +1,6 @@
+framework module Pods_TestXCRC {
+  umbrella header "Pods-TestXCRC-umbrella.h"
+
+  export *
+  module * { export * }
+}
